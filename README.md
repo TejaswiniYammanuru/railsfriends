@@ -1,24 +1,5 @@
-# README
+# Friends App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Friends App is a Ruby on Rails web application where users can manage their friends' details like name, email, phone number, etc. It includes basic CRUD functionality (Create, Read, Update, Delete) and can be easily customized for more advanced features.
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
